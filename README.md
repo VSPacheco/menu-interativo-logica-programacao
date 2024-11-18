@@ -9,7 +9,9 @@ Agradeço imensamente ao pessoal do Discord, que me ajudou e me permitiu ajudar 
 
 Fico feliz em poder contribuir com este material e espero que ele seja um recurso valioso para a sua jornada de aprendizado.
 
-Muito obrigado e bons estudos!  
+Muito obrigado e bons estudos! 
+## Imagem 
+![](https://github.com/VSPacheco/menu-interativo-logica-programacao/blob/main/Captura%20de%20imagem_20241118_180421.png)
 
 ## Objetivo
 Este projeto tem como objetivo ajudar estudantes e iniciantes em programação a praticar e melhorar seus conhecimentos de lógica de programação de forma simples e interativa, usando Portugol.
