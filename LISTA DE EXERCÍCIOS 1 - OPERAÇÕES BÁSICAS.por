@@ -739,6 +739,7 @@ programa{
 		real arrecadacao
 
 		real ingressos
+		// esses espaços em branco é formatação do texto no output da apresentação
 		cadeia categoria[] = {"Popular     ", "Geral       ", "Arquibancada", "Cadeira     "}
 		real preco[] = {5.00, 10.00, 20.00, 30.00}
 		real percent[] = {10.0, 50.0, 30.0, 10.0}
@@ -799,9 +800,9 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 22861; 
+ * @POSICAO-CURSOR = 22303; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {publico, 738, 7, 7}-{arrecadacao, 739, 7, 11}-{ingressos, 741, 7, 9}-{i, 252, 16, 1};
+ * @SIMBOLOS-INSPECIONADOS = {i, 252, 16, 1}-{publico, 738, 7, 7}-{arrecadacao, 739, 7, 11}-{ingressos, 741, 7, 9};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
